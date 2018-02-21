@@ -2,3 +2,7 @@ body{
     background: rgb(197, 191, 191);
     font-size: 18px;
 }
+
+div{
+    margin: 0 auto;
+}
